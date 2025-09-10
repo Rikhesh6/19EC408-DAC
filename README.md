@@ -92,6 +92,9 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ![WhatsApp Image 2025-09-10 at 13 41 19_8bddf4b7](https://github.com/user-attachments/assets/b3f04470-3ec0-431c-b710-3c6d0b916f23)
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
 
+
+
+
 <img width="840" height="491" alt="image" src="https://github.com/user-attachments/assets/ad89df0e-8ac9-4c8f-a4c5-d2c344f87cb9" />
 
 <img width="762" height="372" alt="image" src="https://github.com/user-attachments/assets/04d2bd29-4735-4d9c-8c8c-06342b10a45c" />
